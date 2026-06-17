@@ -1,0 +1,25 @@
+*{
+ margin: 0;
+ font-family: Figtree-Regular, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
+header{
+    display: flex;
+    background-color: #ffffff;
+    
+    border-bottom: 5px solid whitesmoke ;
+    height: 80px;
+    justify-content: space-between;
+    
+}
+.myntra_home{
+    height:60px ;
+    width:50px ;
+   
+}
+.logo{
+ margin-left: 4%;
+}
+
+.action_bar{
+    margin-right: 4%;
+}
